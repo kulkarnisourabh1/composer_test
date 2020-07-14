@@ -2,6 +2,6 @@
     "name": "my_composer_test/my_vendor",
     "description": "A short description of what your package does",
     "require": {
-        "php": "^7.3"
+        "php": "^7.4"
     }
 }
