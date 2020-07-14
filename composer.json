@@ -3,6 +3,7 @@
     "description": "A short description of what your package does",
     "license": "MIT",
     "require": {
-        "php": "^7.5"
+        "php": "^7.5",
+        "mayur/programs":"^1.0.0"
     }
 }
