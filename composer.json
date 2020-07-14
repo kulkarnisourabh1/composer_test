@@ -1,6 +1,7 @@
 {
     "name": "my_composer_test/my_vendor",
     "description": "A short description of what your package does",
+    "license": "123654789"
     "require": {
         "php": "^7.4"
     }
